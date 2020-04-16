@@ -1,0 +1,14 @@
+# Configure artifacts
+Makefile
+config.status
+
+# Build artifacts
+crt1.o
+crti.o
+crtn.o
+getopt.o
+getopt1.o
+regex.o
+sed
+sed.o
+utils.o
